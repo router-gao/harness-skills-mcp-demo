@@ -9,3 +9,5 @@ Open `dist/index.html` in a browser. Click any of the 13 steps, or press **Play 
 - **MCP servers**: one per vendor (weather, flights, booking), each doing the real work
 
 All data is made up; nothing calls a real service.
+
+Live page: https://router-gao.github.io/harness-skills-mcp-demo/ (deployed from `dist/` by `.github/workflows/pages.yml`).
